@@ -7,7 +7,7 @@ namespace AdventOfCode
     {
         static void Main(string[] args)
         {
-            AdventOfCode.Day6.Solution2.Solve(args);
+            AdventOfCode.Day7.Solution2.Solve(args);
         }
     }
 }
